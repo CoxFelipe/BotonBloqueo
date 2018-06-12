@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Blo:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Blo_jar</output-path>
+    <root id="archive" name="Blo.jar">
+      <element id="module-output" name="Blo" />
+    </root>
+  </artifact>
+</component>
